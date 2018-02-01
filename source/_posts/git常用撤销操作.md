@@ -29,3 +29,5 @@ tags:
 + **B** -> **C**: `git commit -m "message"`
 + **C** -> **B**: `git reset --soft HEAD^`
 + 修改最后一次提交: `git commit --amend`
+
+非常实用。转载自[@Netpi](http://www.netpi.me/uncategorized/gitrevoke/)
