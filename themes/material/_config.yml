@@ -185,7 +185,7 @@ sns_share:
 sidebar:
     dropdown:
         Email Me:
-            link: "#"
+            link: "mailto:cengxs13@tsinghua.org.cn"
             icon: email
     homepage:
         use: true
@@ -196,10 +196,22 @@ sidebar:
         icon: inbox
         divider: false
     categories:
-        use: false
+        use: true
+        icon: chrome_reader_mode
+        divider: false
+    tags:
+        use: true
         icon: chrome_reader_mode
         divider: false
     pages:
+        标签云:
+            link: "/tags"
+            icon: cloud_circle
+            divider: true
+        timeline:
+            link: "/timeline"
+            icon: send
+            divider: false
         #About:
             #link: "/about"
             #icon: person
