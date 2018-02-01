@@ -4,10 +4,10 @@
 
 # Head info
 head:
-    favicon: "/img/favicon.png"
-    high_res_favicon: "/img/favicon.png"
-    apple_touch_icon: "/img/favicon.png"
-    keywords:
+    favicon: "/img/wechat_avatar.jpeg"
+    high_res_favicon: "/img/wechat_avatar.jpeg"
+    apple_touch_icon: "/img/wechat_avatar.jpeg"
+    keywords: Computer Vision, Object Detection, 学习分享
     site_verification:
         google:
         baidu:
@@ -71,7 +71,7 @@ background:
 # Images Settings
 img:
     logo: "/img/logo.png"
-    avatar: "/img/avatar.png"
+    avatar: "/img/wechat_avatar.jpeg"
     daily_pic: "/img/daily_pic.png"
     sidebar_header: "/img/sidebar_header.png"
     random_thumbnail: "/img/random/material-"
